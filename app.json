@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "70bae5e0-0f36-4b6d-8713-4d1912923619"
+      }
+    },
+    "owner": "maciekm"
   }
 }
